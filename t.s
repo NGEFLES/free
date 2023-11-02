@@ -1,3 +1,5 @@
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/f/f2/Indosiar_%282012%29.png/revision/latest/scale-to-width-down/240?cb=20230414074513" group-title="----Local",3 Indosiar
 #https://app-etslive-2.vidio.com/live/205/master.m3u8
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
