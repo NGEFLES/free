@@ -7,7 +7,6 @@
 #https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 #https://iptvme.xyz/vid/hls.m3u8?id=205
 #http://beenet.cloud/in.m3u8
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=mpd&play_token=GVZS088tcf
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=m3u8&play_token=GVZS088tcf
-
+#http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
