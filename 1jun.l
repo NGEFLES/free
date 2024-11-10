@@ -1,17 +1,3 @@
-#EXTM3U url=""
-# ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
-# █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
-# ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-11-04 10:04:00 GMT+7 "
-# (●) Service: Playlist24
-# (●) Total Channels: Null
-
-//////////////////////////////// BILA  MENEMUKAN PLAYLIST INI \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> INDONESIA TV
-//========================================================================
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -523,18 +509,6 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 https://cdn14jtedge.indihometv.com/atm/hlsv3/atv/atv.m3u8?c
 
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U billed-msg="😎⛔ Source Playlist Ini [Gratis] Jangan Diperjualbelikan ⛔😎"
 
 
 
