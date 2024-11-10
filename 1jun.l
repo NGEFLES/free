@@ -283,7 +283,10 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_atv_small.png" group-title="Indonesia TV",ATV (INDI)
 https://cdn14jtedge.indihometv.com/atm/hlsv3/atv/atv.m3u8?c
 
-
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Indonesia TV",RCTI (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 
