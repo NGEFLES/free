@@ -1,3 +1,15 @@
+<!-- unpkg : use the latest version of Video.js -->
+<link href="https://unpkg.com/video.js/dist/video-js.min.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js/dist/video.min.js"></script>
+
+<!-- unpkg : use a specific version of Video.js (change the version numbers as necessary) -->
+<link href="https://unpkg.com/video.js@8.23.0/dist/video-js.min.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js@8.23.0/dist/video.min.js"></script>
+
+<!-- cdnjs : use a specific version of Video.js (change the version numbers as necessary) -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.23.0/video-js.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.23.0/video.min.js"></script>
+
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="livebolla",Sportstars 1 HD RCTI+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
